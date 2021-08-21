@@ -53,6 +53,10 @@ button{
     
 }
 
+button:active{
+    background-color: rgb(50, 9, 77);
+}
+
 input{
     border-radius: 20px;
     border: 0;
